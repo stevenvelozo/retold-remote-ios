@@ -24,17 +24,18 @@ public class NativePlayerPlugin: CAPPlugin, CAPBridgedPlugin
 	]
 
 	private var audioPlayer: AVPlayer?
+	private var mpvPlayerVC: MPVPlayerViewController?
 	private var isPlaying: Bool = false
 	private var currentURL: String = ""
 	private var currentTitle: String = ""
 
 	// MARK: - Video Playback
 
-	/// Play a video file using a native player.
+	/// Play a video file using MPVKit for full codec support.
 	///
-	/// This implementation uses AVPlayerViewController as the baseline player.
-	/// For full codec support (MKV, HEVC 10-bit, etc.), replace with MPVKit
-	/// once the package is added to the Xcode project.
+	/// Uses MPVPlayerViewController which embeds libmpv with VideoToolbox
+	/// hardware decoding. Supports MKV, HEVC 10-bit, and other formats
+	/// that AVPlayer cannot handle.
 	@objc func playVideo(_ call: CAPPluginCall)
 	{
 		guard let urlString = call.getString("url") else
@@ -57,20 +58,17 @@ public class NativePlayerPlugin: CAPPlugin, CAPBridgedPlugin
 			self.currentTitle = title
 			self.isPlaying = true
 
-			// Use AVPlayerViewController for baseline playback.
-			// TODO: Replace with MPVKit player view for full codec support.
-			let player = AVPlayer(url: url)
-			let playerVC = AVPlayerViewController()
-			playerVC.player = player
-			playerVC.title = title
+			let playerVC = MPVPlayerViewController(url: url, title: title)
+			playerVC.onDismiss =
+			{ [weak self] in
+				self?.mpvPlayerVC = nil
+				self?.isPlaying = false
+			}
+			self.mpvPlayerVC = playerVC
 
-			// Present the player modally
 			if let viewController = self.bridge?.viewController
 			{
 				viewController.present(playerVC, animated: true)
-				{
-					player.play()
-				}
 			}
 
 			self.updateNowPlaying(title: title, duration: 0)
@@ -143,6 +141,13 @@ public class NativePlayerPlugin: CAPPlugin, CAPBridgedPlugin
 	/// Stop any currently playing media.
 	@objc func stop(_ call: CAPPluginCall)
 	{
+		// Dismiss MPV player if active
+		if let mpvVC = mpvPlayerVC
+		{
+			mpvVC.dismiss(animated: true)
+			mpvPlayerVC = nil
+		}
+
 		audioPlayer?.pause()
 		audioPlayer = nil
 		isPlaying = false
@@ -259,6 +264,3 @@ public class NativePlayerPlugin: CAPPlugin, CAPBridgedPlugin
 		MPNowPlayingInfoCenter.default().nowPlayingInfo = nil
 	}
 }
-
-// AVPlayerViewController import for video playback
-import AVKit
