@@ -1,0 +1,22 @@
+{
+	"name": "retold-remote-ios",
+	"version": "0.0.1",
+	"description": "Native iOS application for retold-remote media browser (Capacitor 8)",
+	"license": "MIT",
+	"author": "Steven Velozo <steven@velozo.com>",
+	"scripts": {
+		"copy-web-app": "bash scripts/copy-web-app.sh",
+		"sync": "npx cap sync ios",
+		"open": "npx cap open ios",
+		"run": "npx cap run ios",
+		"build": "npm run copy-web-app && npm run sync"
+	},
+	"dependencies": {
+		"@capacitor/core": "^8.0.0",
+		"@capacitor/ios": "^8.0.0"
+	},
+	"devDependencies": {
+		"@capacitor/cli": "^8.0.0",
+		"typescript": "^5.9.3"
+	}
+}
