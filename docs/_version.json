@@ -2,6 +2,6 @@
 	"Name": "retold-remote-ios",
 	"Version": "0.0.1",
 	"Description": "Native iOS application for retold-remote media browser (Capacitor 8)",
-	"GeneratedAt": "2026-04-10T02:06:28.337Z",
-	"GitCommit": "d9e4d77"
+	"GeneratedAt": "2026-04-10T03:21:10.493Z",
+	"GitCommit": "d4a185e"
 }
