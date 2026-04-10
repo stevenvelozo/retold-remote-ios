@@ -4,19 +4,19 @@
 
 ## Layered Design
 
-1. **Presentation** — SwiftUI views and view models.
-2. **Coordination** — Navigation, session lifecycle, deep links.
-3. **Services** — Typed clients for REST, WebSockets, Keychain, APNs.
-4. **Persistence** — SQLite cache for offline browsing, `UserDefaults` for preferences.
-5. **Transport** — `URLSession` + `URLSessionWebSocketTask`.
+1. **Presentation** -- SwiftUI views and view models.
+2. **Coordination** -- Navigation, session lifecycle, deep links.
+3. **Services** -- Typed clients for REST, WebSockets, Keychain, APNs.
+4. **Persistence** -- SQLite cache for offline browsing, `UserDefaults` for preferences.
+5. **Transport** -- `URLSession` + `URLSessionWebSocketTask`.
 
-Each layer depends only on the layer below it. The presentation layer never touches `URLSession` directly — it goes through a service.
+Each layer depends only on the layer below it. The presentation layer never touches `URLSession` directly -- it goes through a service.
 
 ## Component Diagram
 
 ```mermaid
 flowchart TB
-    subgraph iOS["iOS App — retold-remote-ios"]
+    subgraph iOS["iOS App -- retold-remote-ios"]
         direction TB
         UI[SwiftUI Views]
         VM[View Models]
@@ -89,15 +89,15 @@ The client translates envelopes into `Combine` publishers that view models subsc
 
 ## Security Model
 
-- **Token storage** — session tokens and refresh tokens are written to the iOS Keychain with `kSecAttrAccessibleAfterFirstUnlockThisDeviceOnly`. They never touch `UserDefaults` or disk files.
-- **Biometric gate** — on launch, `AuthService` prompts with Face ID / Touch ID before releasing the token.
-- **ATS** — App Transport Security is enforced in release builds. `NSAllowsArbitraryLoads` is only set in the debug `.xcconfig`.
-- **Certificate pinning** — optional. `RemoteClient` supports pinning by SPKI hash; pins are declared in `Info.plist`.
-- **Token refresh** — `RemoteClient` transparently refreshes on `401` and retries the original request once.
+- **Token storage** -- session tokens and refresh tokens are written to the iOS Keychain with `kSecAttrAccessibleAfterFirstUnlockThisDeviceOnly`. They never touch `UserDefaults` or disk files.
+- **Biometric gate** -- on launch, `AuthService` prompts with Face ID / Touch ID before releasing the token.
+- **ATS** -- App Transport Security is enforced in release builds. `NSAllowsArbitraryLoads` is only set in the debug `.xcconfig`.
+- **Certificate pinning** -- optional. `RemoteClient` supports pinning by SPKI hash; pins are declared in `Info.plist`.
+- **Token refresh** -- `RemoteClient` transparently refreshes on `401` and retries the original request once.
 
 ## Offline Strategy
 
-The SQLite cache is a strict mirror — it is never the source of truth. On launch, the app surfaces cached data immediately while kicking off a background sync. Writes made while offline are queued in an outbox table and flushed when the network returns. Conflicts are resolved last-writer-wins by default; per-entity resolvers are supported via the `ConflictResolver` protocol.
+The SQLite cache is a strict mirror -- it is never the source of truth. On launch, the app surfaces cached data immediately while kicking off a background sync. Writes made while offline are queued in an outbox table and flushed when the network returns. Conflicts are resolved last-writer-wins by default; per-entity resolvers are supported via the `ConflictResolver` protocol.
 
 ## Dependency Injection
 

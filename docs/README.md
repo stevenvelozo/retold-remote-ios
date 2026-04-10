@@ -4,7 +4,7 @@
 
 `retold-remote-ios` is the Swift/SwiftUI companion to [`retold-remote`](/apps/retold-remote/). It delivers dashboards, data records, file transfers, and realtime events from a Retold ecosystem server directly to iPhone, iPad, and Apple Silicon Macs.
 
-Like the rest of the Retold suite, it treats the server as the source of truth. The iOS app is a *thin edge* — it never holds authoritative state, it never runs its own endpoints, and it defers every decision it can to the Fable/Meadow/Orator stack on the other end of the wire.
+Like the rest of the Retold suite, it treats the server as the source of truth. The iOS app is a *thin edge* -- it never holds authoritative state, it never runs its own endpoints, and it defers every decision it can to the Fable/Meadow/Orator stack on the other end of the wire.
 
 ## Where It Fits
 
@@ -45,7 +45,7 @@ block-beta
   style core fill:#fce4ec,stroke:#ef5350,color:#333
 ```
 
-The app talks **only** to `retold-remote`. It speaks HTTPS for REST calls, WSS for Tidings realtime channels, and APNs for push notifications. Everything else — database access, auth backends, business rules — lives on the server.
+The app talks **only** to `retold-remote`. It speaks HTTPS for REST calls, WSS for Tidings realtime channels, and APNs for push notifications. Everything else -- database access, auth backends, business rules -- lives on the server.
 
 ## Highlights
 
@@ -61,11 +61,11 @@ The app talks **only** to `retold-remote`. It speaks HTTPS for REST calls, WSS f
 
 The full documentation is published via [`pict-docuserve`](/pict/pict-docuserve/). Open `docs/index.html` in a browser, or browse the source Markdown directly:
 
-- **[Overview](overview.md)** — what the app is, what it isn't, and how it relates to the rest of Retold
-- **[Quickstart](quickstart.md)** — clone, configure, and run against a local server in under ten minutes
-- **[Architecture](architecture.md)** — layered design, request lifecycle, realtime, security, and offline strategy, with a Mermaid diagram
-- **[Reference](reference.md)** — module-by-module tour of the source tree
-- **[iOS Build & Package](ios-build-and-package.md)** — building, debugging in the Simulator and on-device, TestFlight, and App Store submission
+- **[Overview](overview.md)** -- what the app is, what it isn't, and how it relates to the rest of Retold
+- **[Quickstart](quickstart.md)** -- clone, configure, and run against a local server in under ten minutes
+- **[Architecture](architecture.md)** -- layered design, request lifecycle, realtime, security, and offline strategy, with a Mermaid diagram
+- **[Reference](reference.md)** -- module-by-module tour of the source tree
+- **[iOS Build & Package](ios-build-and-package.md)** -- building, debugging in the Simulator and on-device, TestFlight, and App Store submission
 
 ## Relationship to Other Retold Modules
 
@@ -81,8 +81,8 @@ The full documentation is published via [`pict-docuserve`](/pict/pict-docuserve/
 
 ## License
 
-MIT — see the repository `LICENSE` file. The same license as the rest of the Retold suite.
+MIT -- see the repository `LICENSE` file. The same license as the rest of the Retold suite.
 
 ## Contributing
 
-Bug reports and pull requests are welcome in the [retold](https://github.com/stevenvelozo/retold) monorepo. For larger changes — new features, architectural shifts — please open an issue first so we can talk through the design before you write Swift.
+Bug reports and pull requests are welcome in the [retold](https://github.com/stevenvelozo/retold) monorepo. For larger changes -- new features, architectural shifts -- please open an issue first so we can talk through the design before you write Swift.

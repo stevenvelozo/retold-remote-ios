@@ -74,7 +74,7 @@ Thin wrapper over `URLSession`. Responsibilities:
 
 - Base URL and header injection
 - JSON encode/decode with `ISO8601DateFormatter`
-- Automatic `401` → refresh → retry
+- Automatic `401` -> refresh -> retry
 - Typed `async throws` methods for each endpoint family (`list`, `read`, `create`, `update`, `delete`)
 - Request signing via `AuthService.currentToken()`
 
@@ -122,11 +122,11 @@ All wire models are `Codable`. Two-way `Equatable` and `Hashable` conformance is
 
 ## Features
 
-Each feature folder is self-contained: `View`, `ViewModel`, optional local `Models`, and a `Route` case. View models are `@MainActor` classes that expose `@Published` state and `async` actions. No feature imports another feature — cross-feature navigation goes through `AppCoordinator`.
+Each feature folder is self-contained: `View`, `ViewModel`, optional local `Models`, and a `Route` case. View models are `@MainActor` classes that expose `@Published` state and `async` actions. No feature imports another feature -- cross-feature navigation goes through `AppCoordinator`.
 
 ### `Login`
 
-Username/password form → `AuthService.signIn`. On success, hands off to `AppCoordinator` which transitions to the `.main` route.
+Username/password form -> `AuthService.signIn`. On success, hands off to `AppCoordinator` which transitions to the `.main` route.
 
 ### `Home`
 
@@ -146,8 +146,8 @@ Server URL, biometric toggle, cache management, sign-out.
 
 ## Testing
 
-- **Unit tests** — `RetoldRemoteTests/` — one file per service, using protocol fakes injected via `AppContainer`.
-- **Snapshot tests** — `RetoldRemoteSnapshotTests/` — uses `swift-snapshot-testing` for key screens.
-- **UI tests** — `RetoldRemoteUITests/` — covers the login flow and one end-to-end record edit against a mock server.
+- **Unit tests** -- `RetoldRemoteTests/` -- one file per service, using protocol fakes injected via `AppContainer`.
+- **Snapshot tests** -- `RetoldRemoteSnapshotTests/` -- uses `swift-snapshot-testing` for key screens.
+- **UI tests** -- `RetoldRemoteUITests/` -- covers the login flow and one end-to-end record edit against a mock server.
 
 Run all tests with **⌘U** in Xcode or `xcodebuild test -scheme RetoldRemote -destination 'platform=iOS Simulator,name=iPhone 15'` from the command line.

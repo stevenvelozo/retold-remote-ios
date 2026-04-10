@@ -6,7 +6,7 @@ Get the app running against a local `retold-remote` server in under ten minutes.
 
 - macOS 14 (Sonoma) or later
 - Xcode 15 or later with the iOS 17 SDK
-- A running `retold-remote` server — see the [retold-remote docs](/apps/retold-remote/)
+- A running `retold-remote` server -- see the [retold-remote docs](/apps/retold-remote/)
 - Node.js 20+ (only needed for the companion server)
 
 ## 1. Clone the Repository
@@ -58,7 +58,7 @@ The app will build, launch, and show the login screen. Sign in with the credenti
 
 ## 6. Verify Realtime
 
-Once signed in, the home screen shows a **Live** indicator. A green dot means the Tidings WebSocket is connected. Trigger an event on the server (e.g. write a record via the REST API) — the home feed should update within a second.
+Once signed in, the home screen shows a **Live** indicator. A green dot means the Tidings WebSocket is connected. Trigger an event on the server (e.g. write a record via the REST API) -- the home feed should update within a second.
 
 ## Next Steps
 

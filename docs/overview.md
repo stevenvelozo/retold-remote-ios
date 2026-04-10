@@ -1,10 +1,10 @@
 # Overview
 
-`retold-remote-ios` is the native iOS companion to the `retold-remote` server. It brings the Retold ecosystem — dashboards, data records, file transfers, and realtime events — into a first-class SwiftUI experience on iPhone, iPad, and Apple Silicon Macs (via Mac Catalyst).
+`retold-remote-ios` is the native iOS companion to the `retold-remote` server. It brings the Retold ecosystem -- dashboards, data records, file transfers, and realtime events -- into a first-class SwiftUI experience on iPhone, iPad, and Apple Silicon Macs (via Mac Catalyst).
 
 ## What It Is
 
-A thin, purposeful client. The heavy lifting — authentication, authorization, data access, file storage — stays on the `retold-remote` server built on Fable/Meadow/Orator. The iOS app is responsible for:
+A thin, purposeful client. The heavy lifting -- authentication, authorization, data access, file storage -- stays on the `retold-remote` server built on Fable/Meadow/Orator. The iOS app is responsible for:
 
 - Presenting a native, fluent UI for the services exposed by `retold-remote`
 - Caching recent data for offline browsing
@@ -27,7 +27,7 @@ A thin, purposeful client. The heavy lifting — authentication, authorization, 
 | Realtime events | `tidings` WebSocket channel |
 | File upload/download | `orator-static-server` + signed URLs |
 | Structured forms | JSON form schema served by `retold-remote` |
-| Push notifications | APNs → server → Tidings fan-out |
+| Push notifications | APNs -> server -> Tidings fan-out |
 
 ## Platform Support
 
@@ -38,10 +38,10 @@ A thin, purposeful client. The heavy lifting — authentication, authorization, 
 
 ## Relationship to the Rest of the Ecosystem
 
-The iOS app is the outermost edge of a Retold deployment. It only talks to one thing — a `retold-remote` server — which brokers everything else.
+The iOS app is the outermost edge of a Retold deployment. It only talks to one thing -- a `retold-remote` server -- which brokers everything else.
 
 ```
-iPhone / iPad  ──HTTPS/WSS──▶  retold-remote (Orator)
+iPhone / iPad  ──HTTPS/WSS──>  retold-remote (Orator)
                                    │
                                    ├── Fable (config, logging, DI)
                                    ├── Meadow (data access)

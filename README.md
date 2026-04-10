@@ -2,7 +2,7 @@
 
 > An iOS client for the Retold Remote application server.
 
-A native iOS app built with Capacitor that brings the Retold ecosystem to iPhone and iPad. Talks to a [`retold-remote`](https://github.com/stevenvelozo/retold-remote) server for dashboards, data records, file transfers, and realtime events — with native iOS integration for notifications, biometrics, background sync, and deep links.
+A native iOS app built with Capacitor that brings the Retold ecosystem to iPhone and iPad. Talks to a [`retold-remote`](https://github.com/stevenvelozo/retold-remote) server for dashboards, data records, file transfers, and realtime events -- with native iOS integration for notifications, biometrics, background sync, and deep links.
 
 Part of the [Retold](https://github.com/stevenvelozo/retold) application suite.
 
@@ -32,9 +32,9 @@ flowchart LR
     Core --> DB[(Database)]
 ```
 
-- **Web layer** — a Pict application rendered inside a `WKWebView`
-- **Capacitor bridge** — typed JS ↔ Swift message passing
-- **Native plugins** — Keychain, biometrics, push, background fetch, file provider
+- **Web layer** -- a Pict application rendered inside a `WKWebView`
+- **Capacitor bridge** -- typed JS <-> Swift message passing
+- **Native plugins** -- Keychain, biometrics, push, background fetch, file provider
 
 ## Highlights
 
@@ -63,7 +63,7 @@ Full documentation lives in [`docs/`](./docs/) and is published via [pict-docuse
 - [Quickstart](./docs/quickstart.md)
 - [Architecture](./docs/architecture.md)
 - [Implementation Reference](./docs/reference.md)
-- [iOS Build & Package Guide](./docs/ios-build-and-package.md) — Simulator, device, TestFlight, App Store
+- [iOS Build & Package Guide](./docs/ios-build-and-package.md) -- Simulator, device, TestFlight, App Store
 
 Regenerate the catalog and keyword index after editing any Markdown file:
 
@@ -83,4 +83,4 @@ npx quack prepare-docs
 
 ## License
 
-[MIT](./LICENSE) — same as the rest of the Retold suite.
+[MIT](./LICENSE) -- same as the rest of the Retold suite.
