@@ -4,7 +4,7 @@
     ],
     "SourceContentCatalog": {
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/.gitignore": {
-            "UUID": "864d8ab9-de67-4c36-8f86-3e626e091068",
+            "UUID": "414624ce-452c-410e-910c-a207b75d1c93",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/.gitignore",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/.gitignore",
@@ -39,7 +39,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/README.md": {
-            "UUID": "1911e695-bda1-42b5-98b6-1031239b69f4",
+            "UUID": "45cc8a7a-4e8e-4d32-9ff4-bf29e1b729c0",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/README.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/README.md",
@@ -75,7 +75,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/capacitor.config.ts": {
-            "UUID": "dff0bb9e-cbab-4ab2-9891-180e2b4b3d1c",
+            "UUID": "09832124-3eb2-4977-940a-fa452a700132",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/capacitor.config.ts",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/capacitor.config.ts",
@@ -112,7 +112,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/dist/indoctrinate_content_staging/Indoctrinate-Catalog-AppData.json": {
-            "UUID": "c83094fc-bb7b-4cc5-90c4-43b8c95d6419",
+            "UUID": "11ae5f2a-d491-4aeb-93d8-49e969e951aa",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/dist/indoctrinate_content_staging/Indoctrinate-Catalog-AppData.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/dist/indoctrinate_content_staging/Indoctrinate-Catalog-AppData.json",
@@ -146,13 +146,13 @@
             "FSTAT": {
                 "Size": 518,
                 "Created": "2026-04-09T23:35:00.289Z",
-                "Modified": "2026-04-09T23:35:00.510Z",
-                "Accessed": "2026-04-09T23:35:00.289Z",
+                "Modified": "2026-04-10T01:50:46.565Z",
+                "Accessed": "2026-04-09T23:41:06.843Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/.nojekyll": {
-            "UUID": "0049a9d6-da73-472c-9a78-879152d46c07",
+            "UUID": "ad532222-5e74-4883-b5fa-5f68a2909f5c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/.nojekyll",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/.nojekyll",
@@ -181,13 +181,13 @@
             ],
             "FSTAT": {
                 "Created": "2026-04-09T23:24:41.425Z",
-                "Modified": "2026-04-09T23:34:31.322Z",
+                "Modified": "2026-04-09T23:35:00.610Z",
                 "Accessed": "2026-04-09T23:24:41.425Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/README.md": {
-            "UUID": "09be92a4-1bbb-420c-a147-f84094775236",
+            "UUID": "1abbeba3-22a6-41bb-9f26-e92b18febff0",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/README.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/README.md",
@@ -224,7 +224,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_cover.md": {
-            "UUID": "b821f1a2-59ff-4b7c-b94f-97aa79d721b5",
+            "UUID": "ee75562f-18d1-4c35-aaca-836dec10d857",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_cover.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_cover.md",
@@ -261,7 +261,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_sidebar.md": {
-            "UUID": "af824fb1-9ce7-4578-ad61-09e771d106bb",
+            "UUID": "d5424801-3356-4bec-9156-92e6067b24c8",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_sidebar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_sidebar.md",
@@ -298,7 +298,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_topbar.md": {
-            "UUID": "73f7b4a6-d63c-4309-842a-31879a776662",
+            "UUID": "63d8febb-513d-4581-b1a5-44900b830b6c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_topbar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/_topbar.md",
@@ -335,7 +335,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/architecture.md": {
-            "UUID": "ee6f35aa-db40-44bb-8074-426f2c68b244",
+            "UUID": "118d8eea-4743-44b1-b2bd-81d6b5a77044",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/architecture.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/architecture.md",
@@ -372,7 +372,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/css/docuserve.css": {
-            "UUID": "c2183737-72f9-4906-b6cc-f7eb7b92dba6",
+            "UUID": "341465f1-cce0-4949-9e41-1ef5d0f4ec40",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/css/docuserve.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/css/docuserve.css",
@@ -404,13 +404,13 @@
             "FSTAT": {
                 "Size": 1263,
                 "Created": "2026-03-10T18:01:03.404Z",
-                "Modified": "2026-04-09T23:34:31.316Z",
-                "Accessed": "2026-04-09T23:34:31.351Z",
+                "Modified": "2026-04-09T23:35:00.604Z",
+                "Accessed": "2026-04-09T23:35:00.640Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/index.html": {
-            "UUID": "588de099-7c3d-47e1-95b6-7d34fe0eef10",
+            "UUID": "52b1920c-4497-403f-828e-b92cbc65c27e",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/index.html",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/index.html",
@@ -441,13 +441,13 @@
             "FSTAT": {
                 "Size": 1652,
                 "Created": "2026-03-10T18:01:03.421Z",
-                "Modified": "2026-04-09T23:34:31.316Z",
-                "Accessed": "2026-04-09T23:34:31.351Z",
+                "Modified": "2026-04-09T23:35:00.604Z",
+                "Accessed": "2026-04-09T23:35:00.640Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/ios-build-and-package.md": {
-            "UUID": "56ff7106-823f-464a-a53d-111215918f4b",
+            "UUID": "58bf6f71-108f-4bea-b1d6-96636836eb7f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/ios-build-and-package.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/ios-build-and-package.md",
@@ -487,7 +487,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/overview.md": {
-            "UUID": "21baa91b-8163-48d6-a030-96c864d652b6",
+            "UUID": "546bba09-52d0-40a3-b793-37d2fc5c379d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/overview.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/overview.md",
@@ -524,7 +524,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/quickstart.md": {
-            "UUID": "73f22584-c83f-4627-bfa7-3805fae10713",
+            "UUID": "e7d15f4a-92b2-4bcc-a446-d16963181c02",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/quickstart.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/quickstart.md",
@@ -561,7 +561,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/reference.md": {
-            "UUID": "f116c33e-317e-4a51-9191-8fdc1a7f8fef",
+            "UUID": "4e4e69fc-1d2f-484d-8fd7-26c2e78e8cb0",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/reference.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/reference.md",
@@ -598,7 +598,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-catalog.json": {
-            "UUID": "12a72022-c000-458b-94a4-36d360cbb478",
+            "UUID": "d6d83333-111f-490e-b208-d66642e0e9d5",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-catalog.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-catalog.json",
@@ -630,13 +630,13 @@
             "FSTAT": {
                 "Size": 5467,
                 "Created": "2026-04-09T23:34:59.887Z",
-                "Modified": "2026-04-09T23:35:00.308Z",
-                "Accessed": "2026-04-09T23:34:59.887Z",
+                "Modified": "2026-04-10T01:50:46.362Z",
+                "Accessed": "2026-04-09T23:35:00.658Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-keyword-index.json": {
-            "UUID": "13bb4b26-1caa-4b36-9862-3668968580da",
+            "UUID": "257077eb-7877-4fcd-8c70-6f5f09b0b26a",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-keyword-index.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/docs/retold-keyword-index.json",
@@ -667,15 +667,15 @@
                 "Default"
             ],
             "FSTAT": {
-                "Size": 269,
+                "Size": 431126,
                 "Created": "2026-04-09T23:34:59.887Z",
-                "Modified": "2026-04-09T23:34:59.887Z",
-                "Accessed": "2026-04-09T23:34:59.887Z",
+                "Modified": "2026-04-09T23:35:00.551Z",
+                "Accessed": "2026-04-09T23:41:06.844Z",
                 "Mode": 33188
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/.gitignore": {
-            "UUID": "6b48c3c9-f392-4999-95de-7550831b445e",
+            "UUID": "2434b554-8960-49c6-b036-9bb75eb93738",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/.gitignore",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/.gitignore",
@@ -711,7 +711,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/AppDelegate.swift": {
-            "UUID": "01da8edc-dc34-4122-9783-818df553bf94",
+            "UUID": "3a864bad-1691-4cc2-8525-18e7bc24815d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/AppDelegate.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/AppDelegate.swift",
@@ -750,7 +750,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png": {
-            "UUID": "f8196013-7b1b-4e98-9bb3-d0169737f805",
+            "UUID": "d3292934-5444-4b12-b622-41320d93b598",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
@@ -792,7 +792,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json": {
-            "UUID": "e435fb90-3284-401c-b9e6-e7d764df7511",
+            "UUID": "1b3524f2-00d8-4c92-87ac-67ea05126ac6",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
@@ -833,7 +833,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Contents.json": {
-            "UUID": "2b246fb4-9b8e-40bd-b790-d9775bb8b330",
+            "UUID": "9e20e74e-818e-43c8-ace3-cc824d2bc745",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Contents.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Contents.json",
@@ -873,7 +873,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/Contents.json": {
-            "UUID": "584d4172-f9b4-4bb8-bf7d-191988800ba3",
+            "UUID": "6ab8bfd2-8e48-4562-bdbe-7f82a6df3d9c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/Contents.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/Contents.json",
@@ -914,7 +914,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png": {
-            "UUID": "f7c598b4-c340-4c91-b9d9-5a423f0fee04",
+            "UUID": "8de3ba1d-b545-4c5d-b6a7-06a731d94747",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png",
@@ -957,7 +957,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png": {
-            "UUID": "992ff040-b70c-4f42-9c62-23af42127a59",
+            "UUID": "4ec889b3-c6f7-4a76-8b77-9ffc24886a31",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png",
@@ -1000,7 +1000,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png": {
-            "UUID": "b141aaef-a9db-4c86-a5db-3d0601172ff5",
+            "UUID": "437b8113-40e4-4871-b735-b681f50161c0",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png",
@@ -1042,7 +1042,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/LaunchScreen.storyboard": {
-            "UUID": "f047213d-4b4a-4505-bcc7-a335fb4c4c5e",
+            "UUID": "e91e90ef-d8df-4f7a-a4f0-a7876f926b0f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/LaunchScreen.storyboard",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/LaunchScreen.storyboard",
@@ -1082,7 +1082,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/Main.storyboard": {
-            "UUID": "abeea404-2cf1-4cd5-8144-5e6ab2dc0f25",
+            "UUID": "688c35e8-f010-41af-8047-94addd3f68f8",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/Main.storyboard",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Base.lproj/Main.storyboard",
@@ -1122,7 +1122,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Info.plist": {
-            "UUID": "cb0adc3f-48d7-48b4-8e4f-63f6a593a704",
+            "UUID": "508accd0-03e5-4c8e-a173-9a65f2303681",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Info.plist",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/Info.plist",
@@ -1161,7 +1161,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/capacitor.config.json": {
-            "UUID": "f66dbbcc-4b13-4571-8195-61582ddc8411",
+            "UUID": "66ef1ace-7d45-43e0-81a1-ed18431e9ce7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/capacitor.config.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/capacitor.config.json",
@@ -1201,7 +1201,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/config.xml": {
-            "UUID": "6ece51c1-4d6d-4e04-86a6-2115402fb90e",
+            "UUID": "5b9fb7cd-4ac0-49da-a2c3-83ab194dc2f5",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/config.xml",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/config.xml",
@@ -1240,7 +1240,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/codejar.js": {
-            "UUID": "5c6f9721-5623-4076-a46d-36f696efd2d1",
+            "UUID": "fa74d058-0bbd-4532-95de-5414f4d6a112",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/codejar.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/codejar.js",
@@ -1280,7 +1280,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova.js": {
-            "UUID": "23298645-1ad3-49c9-a63d-a74c8a3e443b",
+            "UUID": "42a11a57-9b48-4110-9179-eb5fe657ad8d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova.js",
@@ -1319,7 +1319,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova_plugins.js": {
-            "UUID": "370d85c0-ec1a-4e02-8b3b-6763de48b3e8",
+            "UUID": "8f6ebc2d-2304-449a-b7ef-35c69e831ee7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova_plugins.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/cordova_plugins.js",
@@ -1359,7 +1359,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/docuserve.css": {
-            "UUID": "a25d728e-e2bc-4a66-b8fc-1717d1880bf9",
+            "UUID": "fbf89a0e-c173-4820-848b-0bf02291d40c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/docuserve.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/docuserve.css",
@@ -1400,7 +1400,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/retold-remote.css": {
-            "UUID": "a2e70bab-91d9-4bb8-9251-1ec0ec20f57c",
+            "UUID": "e1c9bc81-c402-4344-8d6b-54a04c2152eb",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/retold-remote.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/css/retold-remote.css",
@@ -1442,7 +1442,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/README.md": {
-            "UUID": "a1f05167-1af6-415e-8011-84d61563aaf5",
+            "UUID": "d5547627-459a-4863-866b-9490a59074c5",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/README.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/README.md",
@@ -1483,7 +1483,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_cover.md": {
-            "UUID": "b664fa31-0cd2-4210-a317-45686a5f6250",
+            "UUID": "53872330-966e-4b40-ad9c-b78fe473238c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_cover.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_cover.md",
@@ -1524,7 +1524,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_sidebar.md": {
-            "UUID": "cef75167-2c28-4562-9305-d2ef12662735",
+            "UUID": "6df630b6-611b-46dc-8332-2f60b8aeab59",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_sidebar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_sidebar.md",
@@ -1565,7 +1565,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_topbar.md": {
-            "UUID": "66272905-0d02-49a7-bab8-39fe7742ccc3",
+            "UUID": "af9e782b-c33e-4207-9223-c7ddb115cad7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_topbar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/_topbar.md",
@@ -1606,7 +1606,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-explorer.md": {
-            "UUID": "b1876adb-6b14-41a9-b8b7-8b65efc2d4e9",
+            "UUID": "314c1e75-6499-467b-ac93-57f8f9a7b363",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-explorer.md",
@@ -1648,7 +1648,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-viewer.md": {
-            "UUID": "e66c5c06-16d5-4f77-adca-8fed7cadcd16",
+            "UUID": "aac158e3-dc57-4d77-bec7-ef0356ea6b5a",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/audio-viewer.md",
@@ -1690,7 +1690,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/collections.md": {
-            "UUID": "e16d2d6f-b150-490a-96d2-81bfeaad1443",
+            "UUID": "088ecaa7-936d-4944-83e2-3ee8488acf7e",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/collections.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/collections.md",
@@ -1731,7 +1731,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/ebook-reader.md": {
-            "UUID": "8aa50ded-2826-4a38-9e8b-c3450919004e",
+            "UUID": "4529d232-9586-4090-9b2b-4badff4a4754",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/ebook-reader.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/ebook-reader.md",
@@ -1773,7 +1773,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-explorer.md": {
-            "UUID": "3b1426d5-2587-4dae-b2c6-ed05b4e531bf",
+            "UUID": "7d19faef-6d73-4a2f-a802-6d60b113b5df",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-explorer.md",
@@ -1815,7 +1815,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-viewer.md": {
-            "UUID": "a857243a-f425-4e44-8ca2-8b0562e63073",
+            "UUID": "96a411da-6539-4ae8-90dc-a58d32abce51",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/image-viewer.md",
@@ -1857,7 +1857,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/metadata.md": {
-            "UUID": "779e8588-120f-4c98-9edf-61d466b1694d",
+            "UUID": "78a006a3-1045-4cbe-bd78-3acd4f1baa7c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/metadata.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/metadata.md",
@@ -1898,7 +1898,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/server-setup.md": {
-            "UUID": "c09f847f-d096-4ad3-bdf2-7f0177876831",
+            "UUID": "d632de9c-2ee2-405a-898f-11c3c4ed49e5",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/server-setup.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/server-setup.md",
@@ -1940,7 +1940,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-explorer.md": {
-            "UUID": "bfb23233-976c-43c6-8560-5047564c8ec3",
+            "UUID": "103de1dd-9ea2-4d8f-8868-1b00c87c254a",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-explorer.md",
@@ -1982,7 +1982,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-viewer.md": {
-            "UUID": "1e122d2d-b0e4-4059-9222-113bfb89dab5",
+            "UUID": "5903b2f0-5241-4d46-a8d8-6819abc68418",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs/video-viewer.md",
@@ -2024,7 +2024,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs.html": {
-            "UUID": "6d0a131c-17ba-4b92-a1ed-7fa0d67a9dee",
+            "UUID": "ca9a8d8c-ccc8-44ec-9481-b5325f3aa96f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs.html",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/docs.html",
@@ -2064,7 +2064,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/index.html": {
-            "UUID": "ab5a4e38-f9e9-4bfb-a3c7-4fbaec415edf",
+            "UUID": "3595f7c8-4649-40ba-8d05-c520d37c68a7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/index.html",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/index.html",
@@ -2104,7 +2104,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/epub.min.js": {
-            "UUID": "9e19a804-d25a-4162-b596-74b891768776",
+            "UUID": "cb1972a7-1a25-4334-8f25-e2dc78c01c57",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/epub.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/epub.min.js",
@@ -2146,7 +2146,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/jszip.min.js": {
-            "UUID": "44978b93-0bad-46a0-b521-325ab8f24303",
+            "UUID": "faca3c56-77d4-4dad-aec4-841a0bc34b8b",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/jszip.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/jszip.min.js",
@@ -2188,7 +2188,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict-docuserve.min.js": {
-            "UUID": "2b96cc68-71ba-4663-850e-579dc6e5c6d9",
+            "UUID": "6416338a-9aca-4676-a2be-78de63afb83d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict-docuserve.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict-docuserve.min.js",
@@ -2231,7 +2231,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js": {
-            "UUID": "670bdb4b-a791-408e-b33c-5557e9e9b2c2",
+            "UUID": "7537a876-5461-4891-8993-2af37ed7d2d5",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js",
@@ -2273,7 +2273,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js.map": {
-            "UUID": "aa96b2d3-005e-482d-bafe-77fe4d6e2e70",
+            "UUID": "16a8b302-2abb-4c7d-b3bf-9bf0a6864766",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/js/pict.min.js.map",
@@ -2316,7 +2316,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.css": {
-            "UUID": "52ce33b1-7851-4ccc-809b-f09334627d06",
+            "UUID": "c94bf1ab-5c01-4d71-adaa-c1b66125b275",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.css",
@@ -2358,7 +2358,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.js": {
-            "UUID": "42103a4d-40b6-42c6-bd2c-a7b52797d81d",
+            "UUID": "c918fce7-396e-45eb-ba93-3909d3eb7cca",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-native-bridge.js",
@@ -2400,7 +2400,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js": {
-            "UUID": "5a024cdc-7677-4f4d-a765-f3b4249656e9",
+            "UUID": "6cf21d87-fce3-4beb-82fe-c3a35f7dbbe1",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js",
@@ -2441,7 +2441,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js.map": {
-            "UUID": "1d4ab6ba-353a-468a-9096-ac94763c2bcb",
+            "UUID": "a6eb9c46-2c39-4442-a8fc-a93c22d46b0c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.js.map",
@@ -2483,7 +2483,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js": {
-            "UUID": "6306453f-63f8-4e85-8536-8c9169a7c896",
+            "UUID": "36a2428a-962f-4000-8818-f16bec7a8e67",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js",
@@ -2525,7 +2525,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js.map": {
-            "UUID": "8dbaaa00-d7ba-425d-9721-5b2e38cea6af",
+            "UUID": "2dbef50f-787f-4177-9723-81d825448654",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App/public/retold-remote.min.js.map",
@@ -2568,7 +2568,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.pbxproj": {
-            "UUID": "26605664-5504-461a-900a-2946e688fdd0",
+            "UUID": "fdcd47db-6494-4b7d-9e9e-24c7cde63280",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.pbxproj",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.pbxproj",
@@ -2607,7 +2607,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist": {
-            "UUID": "86f51760-59d2-4eff-822b-9d341069275d",
+            "UUID": "365737ab-8a8a-4ef8-be29-e7404cca46d9",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
@@ -2648,7 +2648,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved": {
-            "UUID": "6be51a85-67e5-4626-9c9a-235c9570d866",
+            "UUID": "706e62ed-393a-4c0c-85dd-5c289a83a6ac",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved",
@@ -2690,7 +2690,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcuserdata/steven.xcuserdatad/UserInterfaceState.xcuserstate": {
-            "UUID": "729601f5-c6f1-41b3-9583-e62f6636a68d",
+            "UUID": "e6c1f9e9-8668-4df4-8308-022d4ef463b2",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcuserdata/steven.xcuserdatad/UserInterfaceState.xcuserstate",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/project.xcworkspace/xcuserdata/steven.xcuserdatad/UserInterfaceState.xcuserstate",
@@ -2732,7 +2732,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist": {
-            "UUID": "a904265a-868b-413a-9ef0-5a493673829d",
+            "UUID": "0cca022e-306d-46cb-98c2-9a3b24feccea",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/App.xcodeproj/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist",
@@ -2774,7 +2774,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.gitignore": {
-            "UUID": "29b92d4c-73ca-49bf-b951-70b3dc9248d8",
+            "UUID": "78820425-a008-4330-95c8-577d9ad84907",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.gitignore",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.gitignore",
@@ -2812,7 +2812,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.swiftpm/xcode/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist": {
-            "UUID": "c9934c7d-8210-4e90-8035-01d9239da721",
+            "UUID": "e21e414a-a504-4e3a-a1cd-d16d4d0e4823",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.swiftpm/xcode/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/.swiftpm/xcode/xcuserdata/steven.xcuserdatad/xcschemes/xcschememanagement.plist",
@@ -2856,7 +2856,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Package.swift": {
-            "UUID": "b25de43c-61a7-4c66-a157-c956d59d7652",
+            "UUID": "d6ff2464-8959-407b-9422-0cd05e48dd92",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Package.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Package.swift",
@@ -2895,7 +2895,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/README.md": {
-            "UUID": "318a4381-ab84-41b4-9939-07fc4a7025d5",
+            "UUID": "30a70ebb-09db-4ec5-8ddf-c9fe98f390f1",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/README.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/README.md",
@@ -2934,7 +2934,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Sources/CapApp-SPM/CapApp-SPM.swift": {
-            "UUID": "f603bda4-610e-44ce-8bb7-0a1194841419",
+            "UUID": "d7665df9-c2b8-4f06-abe0-e37ef07587e7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Sources/CapApp-SPM/CapApp-SPM.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/App/CapApp-SPM/Sources/CapApp-SPM/CapApp-SPM.swift",
@@ -2976,7 +2976,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/CordovaPluginsResources.podspec": {
-            "UUID": "9886f97d-b4a3-41a4-888a-bfb8f47c198f",
+            "UUID": "9ace471f-748b-43ee-95e2-7aaf3c71d7de",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/CordovaPluginsResources.podspec",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/CordovaPluginsResources.podspec",
@@ -3014,7 +3014,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/resources/.gitkeep": {
-            "UUID": "d38fc405-0301-4553-a381-a3fc4220dc20",
+            "UUID": "ff0ed9b6-5755-4c7a-89d2-3621323fa4f8",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/resources/.gitkeep",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/resources/.gitkeep",
@@ -3052,7 +3052,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/sources/.gitkeep": {
-            "UUID": "8c3a621b-5895-41d6-b3f2-d95182934ad9",
+            "UUID": "590cf5be-b04e-4c4c-9a83-9c32c2016933",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/sources/.gitkeep",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/capacitor-cordova-ios-plugins/sources/.gitkeep",
@@ -3090,7 +3090,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/debug.xcconfig": {
-            "UUID": "c2d8631e-00b5-4649-a121-f65c55060a67",
+            "UUID": "6ad512a8-85e5-4dff-91c0-227d6ea1e6d7",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/debug.xcconfig",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios/debug.xcconfig",
@@ -3127,7 +3127,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/MPVPlayerViewController.swift": {
-            "UUID": "393c76ae-04b0-491b-a345-9dc7b4bb7cfb",
+            "UUID": "c2cec3ef-c656-44ea-8c7e-10d87f38f742",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/MPVPlayerViewController.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/MPVPlayerViewController.swift",
@@ -3164,7 +3164,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/NativePlayerPlugin.swift": {
-            "UUID": "f085ee7b-e028-49cc-9951-4e2ad7a11441",
+            "UUID": "4de457b9-ac73-46e7-880b-81b3182e0e63",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/NativePlayerPlugin.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/NativePlayerPlugin.swift",
@@ -3201,7 +3201,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/RetoldBridgeViewController.swift": {
-            "UUID": "403e61df-55bd-4f6d-8ccd-827d8a213a20",
+            "UUID": "67859ae8-d1cc-4aca-99c0-a4718b2be3bc",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/RetoldBridgeViewController.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/RetoldBridgeViewController.swift",
@@ -3238,7 +3238,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/ServerManagerPlugin.swift": {
-            "UUID": "983eabb7-3da4-41f3-b29a-1ca9c65823e5",
+            "UUID": "55d92e7b-455e-4a51-9804-267ea758ea9e",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/ServerManagerPlugin.swift",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/ios-plugins/ServerManagerPlugin.swift",
@@ -3275,7 +3275,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package-lock.json": {
-            "UUID": "1b125221-ec29-4460-943b-385b1605c68c",
+            "UUID": "1363acb8-4448-4de1-9e52-83458cc725df",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package-lock.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package-lock.json",
@@ -3312,7 +3312,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package.json": {
-            "UUID": "4c49be74-e0b2-402c-a03f-fe809c92b4d9",
+            "UUID": "f51df021-e03b-421a-aa1e-2b2bd01fd23f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package.json",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/package.json",
@@ -3369,7 +3369,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/scripts/copy-web-app.sh": {
-            "UUID": "602839ca-da69-4cf9-a5f8-c5e5f636ccfa",
+            "UUID": "58fa327a-4225-45a3-b236-e212d577511c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/scripts/copy-web-app.sh",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/scripts/copy-web-app.sh",
@@ -3408,7 +3408,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/native-player.ts": {
-            "UUID": "f246c8f8-7b5d-4481-aefe-a1aa33516c2f",
+            "UUID": "71e6c862-9f94-40ce-b568-a603ba241bca",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/native-player.ts",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/native-player.ts",
@@ -3447,7 +3447,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/server-manager.ts": {
-            "UUID": "5c4ad508-315a-406b-b7a9-6be990e5d880",
+            "UUID": "7e9dc53d-e766-4048-8477-fcf5818fc04b",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/server-manager.ts",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/src/plugins/server-manager.ts",
@@ -3486,7 +3486,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/codejar.js": {
-            "UUID": "f94976f4-d505-4661-a279-09031f6b6c16",
+            "UUID": "690b96a3-8aa8-4905-86da-5eed0d56e438",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/codejar.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/codejar.js",
@@ -3523,7 +3523,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/docuserve.css": {
-            "UUID": "e65c79ce-73af-48aa-8572-1c277967791a",
+            "UUID": "539fdddf-bf41-4e24-adf5-8d80639b29cf",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/docuserve.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/docuserve.css",
@@ -3561,7 +3561,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/retold-remote.css": {
-            "UUID": "5945fae4-1ee5-4ddb-86e8-c3a368ec7238",
+            "UUID": "a16dd995-fd9f-4c32-a4b4-6864e3b9ff2f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/retold-remote.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/css/retold-remote.css",
@@ -3600,7 +3600,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/README.md": {
-            "UUID": "ff5be6b7-1d21-48c6-be23-17a4e8b3be2b",
+            "UUID": "4ca5d501-0ef0-4121-af15-e2346eef183a",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/README.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/README.md",
@@ -3638,7 +3638,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_cover.md": {
-            "UUID": "f2a6734b-2037-4b1d-9a7f-5b149be54eb4",
+            "UUID": "9e77be7e-0ce1-48e8-accc-d9d33154129c",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_cover.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_cover.md",
@@ -3676,7 +3676,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_sidebar.md": {
-            "UUID": "c593402c-4c8b-42ca-90f7-4660510f71aa",
+            "UUID": "48d82bb6-3e49-4d79-8cf7-32d8975a8a38",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_sidebar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_sidebar.md",
@@ -3714,7 +3714,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_topbar.md": {
-            "UUID": "9ba4e952-70af-424e-bb2d-d9d7c3ab40d5",
+            "UUID": "4b6c573f-739d-4066-932f-7e67a8ab8c04",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_topbar.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/_topbar.md",
@@ -3752,7 +3752,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-explorer.md": {
-            "UUID": "77a26b00-29a1-4b4c-8aab-f54856754acb",
+            "UUID": "6226de9f-5886-4a1d-b5eb-67c464c5398e",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-explorer.md",
@@ -3791,7 +3791,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-viewer.md": {
-            "UUID": "bb618f79-d418-44d4-bd41-0871bbd1c4d4",
+            "UUID": "2303c459-bd96-4ffe-9f03-11b1f2e11df2",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/audio-viewer.md",
@@ -3830,7 +3830,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/collections.md": {
-            "UUID": "e3ebef77-4031-435a-b6db-01c38a9a5560",
+            "UUID": "be154e22-03f0-4d98-87da-39dde975b579",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/collections.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/collections.md",
@@ -3868,7 +3868,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/ebook-reader.md": {
-            "UUID": "14b52be6-ae9c-4883-8952-d1f48856648c",
+            "UUID": "61c674ed-359a-4034-9e7b-48824eaff457",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/ebook-reader.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/ebook-reader.md",
@@ -3907,7 +3907,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-explorer.md": {
-            "UUID": "4ae84b50-add6-4ff0-bc1c-d5998d28d2a8",
+            "UUID": "7b290cb4-8dfa-4b5a-b049-c56696403583",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-explorer.md",
@@ -3946,7 +3946,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-viewer.md": {
-            "UUID": "f6c7e773-e769-4bc5-8780-781ff15f001d",
+            "UUID": "4db685df-42d3-41cd-82eb-48ae19c5f6ec",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/image-viewer.md",
@@ -3985,7 +3985,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/metadata.md": {
-            "UUID": "f4bd8aeb-9d98-4ab7-928f-3e769b80ad42",
+            "UUID": "242e2105-ff09-4cf5-af2b-c0fdd5270612",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/metadata.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/metadata.md",
@@ -4023,7 +4023,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/server-setup.md": {
-            "UUID": "16d2e42a-3364-487c-b97e-964cabfd5d7e",
+            "UUID": "33beb6ab-c46b-4512-ab1a-9cf0eb99263f",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/server-setup.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/server-setup.md",
@@ -4062,7 +4062,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-explorer.md": {
-            "UUID": "95c6da18-13b3-4aa0-bc5a-648938f9042b",
+            "UUID": "f407ec95-5b8a-41ad-9711-f17336986c9d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-explorer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-explorer.md",
@@ -4101,7 +4101,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-viewer.md": {
-            "UUID": "d2abb2f7-85c3-4406-b7cf-447c33fe45dd",
+            "UUID": "75125499-2c52-41a5-87f1-05e871883d14",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-viewer.md",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs/video-viewer.md",
@@ -4140,7 +4140,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs.html": {
-            "UUID": "6bca8cbc-27e9-46d2-a635-073e02659176",
+            "UUID": "983ca886-5443-49c3-a90d-792fd2c8b137",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs.html",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/docs.html",
@@ -4177,7 +4177,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/index.html": {
-            "UUID": "212f2e2f-6fd5-4442-8b56-3702171ebe62",
+            "UUID": "dbcf75fd-c4e9-4de0-8196-91c85d6478fb",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/index.html",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/index.html",
@@ -4214,7 +4214,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/epub.min.js": {
-            "UUID": "98900cb4-2dba-4390-9783-7387cc3e6edf",
+            "UUID": "3e2e846f-cffe-4be7-af8e-999e58768915",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/epub.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/epub.min.js",
@@ -4253,7 +4253,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/jszip.min.js": {
-            "UUID": "ed8367ff-5500-4d49-84c1-656dd31ed4e0",
+            "UUID": "0e4d5f64-bbea-4eff-8745-ea59b22a928d",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/jszip.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/jszip.min.js",
@@ -4292,7 +4292,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict-docuserve.min.js": {
-            "UUID": "b5aab266-fed4-480a-9d51-947a3de46c0f",
+            "UUID": "9d04bc34-fb32-454a-956b-6e76ad0dbca0",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict-docuserve.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict-docuserve.min.js",
@@ -4332,7 +4332,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js": {
-            "UUID": "612d3f2e-5985-4430-8a9b-a3fa61ed6a6d",
+            "UUID": "4521211f-c0c2-48d2-8f8b-285de41323bc",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js",
@@ -4371,7 +4371,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js.map": {
-            "UUID": "828caaaf-656d-494a-beb7-f5f05a894d32",
+            "UUID": "250e0b33-5905-4e02-a314-cab6c8d9fc72",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/js/pict.min.js.map",
@@ -4411,7 +4411,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.css": {
-            "UUID": "1ac81386-4de6-4e02-93cd-dcb264f0f7c1",
+            "UUID": "336a8a2d-9ba0-4be0-8f9a-e4998291efea",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.css",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.css",
@@ -4450,7 +4450,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.js": {
-            "UUID": "a27a6589-fa7d-4b85-ba45-b23c12766504",
+            "UUID": "6dd5c2c6-4f82-4c66-9893-51d89e2ad3e3",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-native-bridge.js",
@@ -4489,7 +4489,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js": {
-            "UUID": "fe914e18-4bfc-46bf-bac7-93b07991284a",
+            "UUID": "3f476ac3-4edb-489d-9b26-196f451c4212",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js",
@@ -4527,7 +4527,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js.map": {
-            "UUID": "faa2aaf6-81b6-46e8-8ae4-f5c34c61e374",
+            "UUID": "08282133-2197-4ef4-abbb-8b3b7a3385ff",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.js.map",
@@ -4566,7 +4566,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js": {
-            "UUID": "61158838-0d5b-4b1f-ba7a-0d855b5b39e3",
+            "UUID": "7595adc8-1de7-4b1b-bd9d-ba124a3b3eb1",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js",
@@ -4605,7 +4605,7 @@
             }
         },
         "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js.map": {
-            "UUID": "bda0ac96-cbbd-4ea0-9c1f-ace3def6a4ce",
+            "UUID": "1294517f-f39a-4340-a1c8-571ea8d74f29",
             "Type": "URI",
             "Hash": "URI~CONTENT~FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js.map",
             "Path": "FILE://Users/steven/Code/retold/modules/apps/retold-remote-ios/web-app/retold-remote.min.js.map",
