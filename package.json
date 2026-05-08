@@ -1,6 +1,6 @@
 {
 	"name": "retold-remote-ios",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Native iOS application for retold-remote media browser (Capacitor 8)",
 	"license": "MIT",
 	"author": "Steven Velozo <steven@velozo.com>",
