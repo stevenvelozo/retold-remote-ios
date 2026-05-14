@@ -1,0 +1,18 @@
+{
+	"Hash": "retold-remote-ios",
+	"Name": "Retold Remote Ios",
+	"Tagline": "Native iOS application for retold-remote media browser (Capacitor 8)",
+	"Palette": "mix",
+	"Icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 96 96\" width=\"96\" height=\"96\">\n\t\t<defs>\n\t\t\t<clipPath id=\"frame-retold-remote-ios-filled-light\">\n\t\t\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\"/>\n\t\t\t</clipPath>\n\t\t</defs>\n\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\" fill=\"#34acdd\"/>\n\t\t<g clip-path=\"url(#frame-retold-remote-ios-filled-light)\"><path d=\"M 16 26 L 48 66 L 80 26 Z\" fill=\"rgba(255,255,255,0.18)\"/>\n\t\t\t\t\t<path d=\"M 24 16 L 48 44 L 72 16 Z\" fill=\"#e76440\" opacity=\"0.9\"/></g>\n\t\t<text x=\"48\" y=\"50\" text-anchor=\"middle\" dominant-baseline=\"central\"\n\t\t\tfont-family=\"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif\"\n\t\t\tfont-size=\"28\" font-weight=\"600\"\n\t\t\tfill=\"#ffffff\" letter-spacing=\"-1\">RRI</text>\n\t</svg>",
+	"IconType": "svg",
+	"Favicon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 96 96\" width=\"96\" height=\"96\">\n\t\t<defs>\n\t\t\t<clipPath id=\"fav-retold-remote-ios-light\">\n\t\t\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\"/>\n\t\t\t</clipPath>\n\t\t</defs>\n\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\" fill=\"#34acdd\"/>\n\t\t<g clip-path=\"url(#fav-retold-remote-ios-light)\"><path d=\"M 16 26 L 48 66 L 80 26 Z\" fill=\"rgba(255,255,255,0.22)\"/></g>\n\t\t<text x=\"48\" y=\"50\" text-anchor=\"middle\" dominant-baseline=\"central\"\n\t\t\tfont-family=\"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif\"\n\t\t\tfont-size=\"60\" font-weight=\"800\"\n\t\t\tfill=\"#ffffff\" letter-spacing=\"-1\">R</text>\n\t</svg>",
+	"FaviconDark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 96 96\" width=\"96\" height=\"96\">\n\t\t<defs>\n\t\t\t<clipPath id=\"fav-retold-remote-ios-dark\">\n\t\t\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\"/>\n\t\t\t</clipPath>\n\t\t</defs>\n\t\t<path d=\"M 24 2\n\t\tH 72\n\t\tQ 94 2 94 24\n\t\tV 72\n\t\tQ 94 94 72 94\n\t\tH 24\n\t\tQ 2 94 2 72\n\t\tV 24\n\t\tQ 2 2 24 2 Z\" fill=\"#87cae6\"/>\n\t\t<g clip-path=\"url(#fav-retold-remote-ios-dark)\"><path d=\"M 16 26 L 48 66 L 80 26 Z\" fill=\"rgba(255,255,255,0.22)\"/></g>\n\t\t<text x=\"48\" y=\"50\" text-anchor=\"middle\" dominant-baseline=\"central\"\n\t\t\tfont-family=\"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif\"\n\t\t\tfont-size=\"60\" font-weight=\"800\"\n\t\t\tfill=\"#101418\" letter-spacing=\"-1\">R</text>\n\t</svg>",
+	"Colors": {
+		"Primary": "#34acdd",
+		"Secondary": "#e76440",
+		"PrimaryLight": "#34acdd",
+		"PrimaryDark": "#87cae6",
+		"SecondaryLight": "#e76440",
+		"SecondaryDark": "#eda995"
+	}
+}
