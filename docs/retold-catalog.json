@@ -1,284 +1,86 @@
 {
-	"Generated": "2026-04-10T03:21:10.220Z",
+	"Generated": "2026-05-22T05:37:11.739Z",
+	"Mode": "module",
 	"GitHubOrg": "stevenvelozo",
 	"DefaultBranch": "master",
-	"Groups": [
-		{
-			"Name": "Dist",
-			"Key": "dist",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "indoctrinate_content_staging",
-					"Repo": "indoctrinate_content_staging",
-					"Group": "dist",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Docs",
-			"Key": "docs",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "css",
-					"Repo": "css",
-					"Group": "docs",
-					"Branch": "master",
-					"HasDocs": true,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": [
-						"css/docuserve.css"
-					]
-				}
-			]
-		},
-		{
-			"Name": "Ios",
-			"Key": "ios",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "App",
-					"Repo": "App",
-					"Group": "ios",
-					"Branch": "master",
-					"HasDocs": true,
-					"HasCover": false,
-					"Sidebar": [
-						{
-							"Title": "Home",
-							"Path": "README.md"
-						},
-						{
-							"Title": "Getting Started",
-							"Children": [
-								{
-									"Title": "Server Setup & Docker",
-									"Path": "server-setup.md"
-								}
-							]
-						},
-						{
-							"Title": "Media Viewers",
-							"Children": [
-								{
-									"Title": "Image Viewer",
-									"Path": "image-viewer.md"
-								},
-								{
-									"Title": "Video Viewer",
-									"Path": "video-viewer.md"
-								},
-								{
-									"Title": "Audio Viewer",
-									"Path": "audio-viewer.md"
-								},
-								{
-									"Title": "eBook Reader",
-									"Path": "ebook-reader.md"
-								}
-							]
-						},
-						{
-							"Title": "Explorers",
-							"Children": [
-								{
-									"Title": "Image Explorer",
-									"Path": "image-explorer.md"
-								},
-								{
-									"Title": "Video Explorer",
-									"Path": "video-explorer.md"
-								},
-								{
-									"Title": "Audio Explorer",
-									"Path": "audio-explorer.md"
-								}
-							]
-						},
-						{
-							"Title": "Features",
-							"Children": [
-								{
-									"Title": "Collections",
-									"Path": "collections.md"
-								},
-								{
-									"Title": "File Metadata",
-									"Path": "metadata.md"
-								}
-							]
-						}
-					],
-					"DocFiles": [
-						"README.md",
-						"_cover.md",
-						"_sidebar.md",
-						"_topbar.md",
-						"audio-explorer.md",
-						"audio-viewer.md",
-						"collections.md",
-						"ebook-reader.md",
-						"image-explorer.md",
-						"image-viewer.md",
-						"metadata.md",
-						"server-setup.md",
-						"video-explorer.md",
-						"video-viewer.md"
-					]
-				},
-				{
-					"Name": "capacitor-cordova-ios-plugins",
-					"Repo": "capacitor-cordova-ios-plugins",
-					"Group": "ios",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Src",
-			"Key": "src",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "plugins",
-					"Repo": "plugins",
-					"Group": "src",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		},
-		{
-			"Name": "Web-app",
-			"Key": "web-app",
-			"Description": "",
-			"Modules": [
-				{
-					"Name": "css",
-					"Repo": "css",
-					"Group": "web-app",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				},
-				{
-					"Name": "docs",
-					"Repo": "docs",
-					"Group": "web-app",
-					"Branch": "master",
-					"HasDocs": true,
-					"HasCover": false,
-					"Sidebar": [
-						{
-							"Title": "Home",
-							"Path": "README.md"
-						},
-						{
-							"Title": "Getting Started",
-							"Children": [
-								{
-									"Title": "Server Setup & Docker",
-									"Path": "server-setup.md"
-								}
-							]
-						},
-						{
-							"Title": "Media Viewers",
-							"Children": [
-								{
-									"Title": "Image Viewer",
-									"Path": "image-viewer.md"
-								},
-								{
-									"Title": "Video Viewer",
-									"Path": "video-viewer.md"
-								},
-								{
-									"Title": "Audio Viewer",
-									"Path": "audio-viewer.md"
-								},
-								{
-									"Title": "eBook Reader",
-									"Path": "ebook-reader.md"
-								}
-							]
-						},
-						{
-							"Title": "Explorers",
-							"Children": [
-								{
-									"Title": "Image Explorer",
-									"Path": "image-explorer.md"
-								},
-								{
-									"Title": "Video Explorer",
-									"Path": "video-explorer.md"
-								},
-								{
-									"Title": "Audio Explorer",
-									"Path": "audio-explorer.md"
-								}
-							]
-						},
-						{
-							"Title": "Features",
-							"Children": [
-								{
-									"Title": "Collections",
-									"Path": "collections.md"
-								},
-								{
-									"Title": "File Metadata",
-									"Path": "metadata.md"
-								}
-							]
-						}
-					],
-					"DocFiles": [
-						"README.md",
-						"_cover.md",
-						"_sidebar.md",
-						"_topbar.md",
-						"audio-explorer.md",
-						"audio-viewer.md",
-						"collections.md",
-						"ebook-reader.md",
-						"image-explorer.md",
-						"image-viewer.md",
-						"metadata.md",
-						"server-setup.md",
-						"video-explorer.md",
-						"video-viewer.md"
-					]
-				},
-				{
-					"Name": "js",
-					"Repo": "js",
-					"Group": "web-app",
-					"Branch": "master",
-					"HasDocs": false,
-					"HasCover": false,
-					"Sidebar": [],
-					"DocFiles": []
-				}
-			]
-		}
-	]
+	"Module": {
+		"Name": "retold-remote-ios",
+		"Repo": "retold-remote-ios",
+		"Group": "",
+		"Branch": "master",
+		"HasDocs": true,
+		"HasCover": true,
+		"Sidebar": [
+			{
+				"Title": "Introduction",
+				"Children": [
+					{
+						"Title": "Overview",
+						"Path": "#/page/overview.md"
+					},
+					{
+						"Title": "Quickstart",
+						"Path": "#/page/quickstart.md"
+					}
+				]
+			},
+			{
+				"Title": "Design",
+				"Children": [
+					{
+						"Title": "Architecture",
+						"Path": "#/page/architecture.md"
+					},
+					{
+						"Title": "Reference",
+						"Path": "#/page/reference.md"
+					}
+				]
+			},
+			{
+				"Title": "Shipping",
+				"Children": [
+					{
+						"Title": "iOS Build & Package",
+						"Path": "#/page/ios-build-and-package.md"
+					}
+				]
+			},
+			{
+				"Title": "Ecosystem",
+				"Children": [
+					{
+						"Title": "retold-remote",
+						"Path": "apps/retold-remote/README.md"
+					},
+					{
+						"Title": "orator",
+						"Path": "orator/orator/README.md"
+					},
+					{
+						"Title": "tidings",
+						"Path": "orator/tidings/README.md"
+					}
+				]
+			}
+		],
+		"DocFiles": [
+			".nojekyll",
+			"README.md",
+			"_brand.json",
+			"_cover.md",
+			"_sidebar.md",
+			"_topbar.md",
+			"_version.json",
+			"architecture.md",
+			"index.html",
+			"ios-build-and-package.md",
+			"overview.md",
+			"quickstart.md",
+			"reference.md",
+			"retold-catalog.json",
+			"retold-keyword-index.json"
+		]
+	},
+	"Groups": []
 }
