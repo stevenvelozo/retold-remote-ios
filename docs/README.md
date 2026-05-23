@@ -2,7 +2,7 @@
 
 > A native iOS client for the Retold Remote application server.
 
-`retold-remote-ios` is the Swift/SwiftUI companion to [`retold-remote`](/apps/retold-remote/). It delivers dashboards, data records, file transfers, and realtime events from a Retold ecosystem server directly to iPhone, iPad, and Apple Silicon Macs.
+`retold-remote-ios` is the Swift/SwiftUI companion to [`retold-remote`](https://stevenvelozo.github.io/retold-remote/). It delivers dashboards, data records, file transfers, and realtime events from a Retold ecosystem server directly to iPhone, iPad, and Apple Silicon Macs.
 
 Like the rest of the Retold suite, it treats the server as the source of truth. The iOS app is a *thin edge* -- it never holds authoritative state, it never runs its own endpoints, and it defers every decision it can to the Fable/Meadow/Orator stack on the other end of the wire.
 
@@ -59,7 +59,7 @@ The app talks **only** to `retold-remote`. It speaks HTTPS for REST calls, WSS f
 
 ## Documentation
 
-The full documentation is published via [`pict-docuserve`](/pict/pict-docuserve/). Open `docs/index.html` in a browser, or browse the source Markdown directly:
+The full documentation is published via [`pict-docuserve`](https://stevenvelozo.github.io/pict-docuserve/). Open `docs/index.html` in a browser, or browse the source Markdown directly:
 
 - **[Overview](overview.md)** -- what the app is, what it isn't, and how it relates to the rest of Retold
 - **[Quickstart](quickstart.md)** -- clone, configure, and run against a local server in under ten minutes
@@ -71,13 +71,13 @@ The full documentation is published via [`pict-docuserve`](/pict/pict-docuserve/
 
 | Module | Role | Used By |
 |---|---|---|
-| [`retold-remote`](/apps/retold-remote/) | The server the app connects to | Every feature |
-| [`orator`](/orator/orator/) | API server framework | Server only |
-| [`orator-authentication`](/orator/orator-authentication/) | Session and token auth | `AuthService` |
-| [`meadow-endpoints`](/meadow/meadow-endpoints/) | Auto-generated REST for records | `RemoteClient` |
-| [`tidings`](/orator/tidings/) | WebSocket realtime | `TidingsClient` |
-| [`orator-static-server`](/orator/orator-static-server/) | File upload/download | `FileService` |
-| [`fable`](/fable/fable/) | Server-side DI foundation | Server only |
+| [`retold-remote`](https://stevenvelozo.github.io/retold-remote/) | The server the app connects to | Every feature |
+| [`orator`](https://stevenvelozo.github.io/orator/) | API server framework | Server only |
+| [`orator-authentication`](https://stevenvelozo.github.io/orator-authentication/) | Session and token auth | `AuthService` |
+| [`meadow-endpoints`](https://stevenvelozo.github.io/meadow-endpoints/) | Auto-generated REST for records | `RemoteClient` |
+| [`tidings`](https://stevenvelozo.github.io/tidings/) | WebSocket realtime | `TidingsClient` |
+| [`orator-static-server`](https://stevenvelozo.github.io/orator-static-server/) | File upload/download | `FileService` |
+| [`fable`](https://stevenvelozo.github.io/fable/) | Server-side DI foundation | Server only |
 
 ## License
 

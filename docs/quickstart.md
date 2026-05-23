@@ -6,7 +6,7 @@ Get the app running against a local `retold-remote` server in under ten minutes.
 
 - macOS 14 (Sonoma) or later
 - Xcode 15 or later with the iOS 17 SDK
-- A running `retold-remote` server -- see the [retold-remote docs](/apps/retold-remote/)
+- A running `retold-remote` server -- see the [retold-remote docs](https://stevenvelozo.github.io/retold-remote/)
 - Node.js 20+ (only needed for the companion server)
 
 ## 1. Clone the Repository

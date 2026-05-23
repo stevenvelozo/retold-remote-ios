@@ -1,5 +1,7 @@
 # retold-remote-ios
 
+> **[&#9654; Read the Retold-Remote-Ios Documentation](https://stevenvelozo.github.io/retold-remote-ios/)** &mdash; interactive docs with the full API reference.
+
 > An iOS client for the Retold Remote application server.
 
 A native iOS app built with Capacitor that brings the Retold ecosystem to iPhone and iPad. Talks to a [`retold-remote`](https://github.com/stevenvelozo/retold-remote) server for dashboards, data records, file transfers, and realtime events -- with native iOS integration for notifications, biometrics, background sync, and deep links.

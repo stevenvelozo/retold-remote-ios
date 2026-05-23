@@ -14,6 +14,6 @@
 
 - Ecosystem
 
-  - [retold-remote](/apps/retold-remote/)
-  - [orator](/orator/orator/)
-  - [tidings](/orator/tidings/)
+  - [retold-remote](https://stevenvelozo.github.io/retold-remote/)
+  - [orator](https://stevenvelozo.github.io/orator/)
+  - [tidings](https://stevenvelozo.github.io/tidings/)
