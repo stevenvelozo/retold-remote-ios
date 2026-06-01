@@ -1,7 +1,7 @@
 {
-	"Generated": "2026-05-22T05:37:11.739Z",
+	"Generated": "2026-06-01T03:51:16.798Z",
 	"Mode": "module",
-	"GitHubOrg": "stevenvelozo",
+	"GitHubOrg": "fable-retold",
 	"DefaultBranch": "master",
 	"Module": {
 		"Name": "retold-remote-ios",
@@ -51,15 +51,15 @@
 				"Children": [
 					{
 						"Title": "retold-remote",
-						"Path": "apps/retold-remote/README.md"
+						"Path": "https://stevenvelozo.github.io/retold-remote/README.md"
 					},
 					{
 						"Title": "orator",
-						"Path": "orator/orator/README.md"
+						"Path": "https://stevenvelozo.github.io/orator/README.md"
 					},
 					{
 						"Title": "tidings",
-						"Path": "orator/tidings/README.md"
+						"Path": "https://stevenvelozo.github.io/tidings/README.md"
 					}
 				]
 			}
