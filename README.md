@@ -1,6 +1,6 @@
 # retold-remote-ios
 
-> **[&#9654; Read the Retold-Remote-Ios Documentation](https://stevenvelozo.github.io/retold-remote-ios/)** &mdash; interactive docs with the full API reference.
+> **[Read the Retold-Remote-Ios Documentation](https://stevenvelozo.github.io/retold-remote-ios/)** - interactive docs with the full API reference.
 
 > An iOS client for the Retold Remote application server.
 
@@ -80,8 +80,8 @@ npx quack prepare-docs
 | [retold-remote](https://github.com/stevenvelozo/retold-remote) | The server this app connects to |
 | [retold-remote-desktop](https://github.com/stevenvelozo/retold-remote-desktop) | Sibling desktop client |
 | [pict](https://github.com/stevenvelozo/pict) | Web layer framework |
-| [pict-view](https://github.com/stevenvelozo/pict-view) · [pict-router](https://github.com/stevenvelozo/pict-router) | View + routing |
-| [orator](https://github.com/stevenvelozo/orator) · [tidings](https://github.com/stevenvelozo/tidings) | Server REST + realtime |
+| [pict-view](https://github.com/stevenvelozo/pict-view) - [pict-router](https://github.com/stevenvelozo/pict-router) | View + routing |
+| [orator](https://github.com/stevenvelozo/orator) - [tidings](https://github.com/stevenvelozo/tidings) | Server REST + realtime |
 
 ## License
 
