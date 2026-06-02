@@ -14,55 +14,8 @@ Each layer depends only on the layer below it. The presentation layer never touc
 
 ## Component Diagram
 
-```mermaid
-flowchart TB
-    subgraph iOS["iOS App -- retold-remote-ios"]
-        direction TB
-        UI[SwiftUI Views]
-        VM[View Models]
-        COORD[AppCoordinator]
-        subgraph SVC[Services]
-            REMOTE[RemoteClient<br/>REST]
-            TID[TidingsClient<br/>WebSocket]
-            AUTH[AuthService<br/>Keychain]
-            PUSH[PushService<br/>APNs]
-            FILE[FileService<br/>Upload/Download]
-        end
-        CACHE[(SQLite Cache)]
-        UI --> VM --> COORD
-        COORD --> REMOTE
-        COORD --> TID
-        COORD --> AUTH
-        COORD --> PUSH
-        COORD --> FILE
-        REMOTE --> CACHE
-        TID --> CACHE
-    end
-
-    subgraph SRV["retold-remote Server"]
-        direction TB
-        ORATOR[Orator API]
-        ENDPOINTS[meadow-endpoints]
-        TIDINGS[tidings]
-        STATIC[orator-static-server]
-        AUTHSVC[orator-authentication]
-        MEADOW[Meadow ORM]
-        DB[(Database)]
-        ORATOR --> ENDPOINTS --> MEADOW --> DB
-        ORATOR --> TIDINGS
-        ORATOR --> STATIC
-        ORATOR --> AUTHSVC
-    end
-
-    APNS[(Apple Push<br/>Notification Service)]
-
-    REMOTE -- HTTPS --> ORATOR
-    TID -- WSS --> TIDINGS
-    FILE -- HTTPS --> STATIC
-    AUTH -- HTTPS --> AUTHSVC
-    SRV -- Push --> APNS
-    APNS -- Push --> PUSH
-```
+<!-- bespoke diagram: edit diagrams/component-diagram.mmd or .hints.json, then: npx pict-renderer-graph build modules/apps/retold-remote-ios/docs -->
+![Component Diagram](diagrams/component-diagram.svg)
 
 ## Request Lifecycle
 

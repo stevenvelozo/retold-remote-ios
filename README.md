@@ -24,15 +24,8 @@ Then build and run from Xcode against the Simulator or a connected device.
 
 ## Architecture at a Glance
 
-```mermaid
-flowchart LR
-    subgraph iOS[retold-remote-ios]
-        WEB[Pict Web App<br/>WKWebView] --- BRIDGE[Capacitor Bridge] --- NATIVE[Native Plugins<br/>Swift]
-    end
-    iOS -->|HTTPS / WSS| Server[retold-remote]
-    Server --> Core[Fable / Meadow]
-    Core --> DB[(Database)]
-```
+<!-- bespoke diagram: edit diagrams/architecture-at-a-glance.mmd or .hints.json, then: npx pict-renderer-graph build modules/apps/retold-remote-ios -->
+![Architecture at a Glance](diagrams/architecture-at-a-glance.svg)
 
 - **Web layer** -- a Pict application rendered inside a `WKWebView`
 - **Capacitor bridge** -- typed JS <-> Swift message passing

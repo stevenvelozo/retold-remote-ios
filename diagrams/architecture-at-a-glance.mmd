@@ -1,0 +1,7 @@
+flowchart LR
+    subgraph iOS[retold-remote-ios]
+        WEB[Pict Web App<br/>WKWebView] --- BRIDGE[Capacitor Bridge] --- NATIVE[Native Plugins<br/>Swift]
+    end
+    iOS -->|HTTPS / WSS| Server[retold-remote]
+    Server --> Core[Fable / Meadow]
+    Core --> DB[(Database)]
