@@ -13,23 +13,8 @@ This page covers the full lifecycle of shipping `retold-remote-ios`: building lo
 
 ## 1. Project Layout at a Glance
 
-```
-retold-remote-ios/
-├── RetoldRemote.xcodeproj
-├── RetoldRemote/
-│   ├── Configuration/
-│   │   ├── Debug.xcconfig
-│   │   ├── Release.xcconfig
-│   │   └── Local.xcconfig.sample
-│   ├── Resources/Info.plist
-│   └── ...
-├── RetoldRemoteTests/
-├── RetoldRemoteUITests/
-├── fastlane/           (optional)
-└── scripts/
-    ├── bump-version.sh
-    └── archive.sh
-```
+<!-- bespoke diagram: edit diagrams/1-project-layout-at-a-glance.mmd or .hints.json, then: npx pict-renderer-graph build modules/apps/retold-remote-ios/docs -->
+![1. Project Layout at a Glance](diagrams/1-project-layout-at-a-glance.svg)
 
 ## 2. Schemes and Configurations
 

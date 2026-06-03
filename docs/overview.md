@@ -40,13 +40,7 @@ A thin, purposeful client. The heavy lifting -- authentication, authorization, d
 
 The iOS app is the outermost edge of a Retold deployment. It only talks to one thing -- a `retold-remote` server -- which brokers everything else.
 
-```
-iPhone / iPad  ──HTTPS/WSS──>  retold-remote (Orator)
-                                   │
-                                   ├── Fable (config, logging, DI)
-                                   ├── Meadow (data access)
-                                   ├── Tidings (realtime)
-                                   └── Ultravisor beacons (optional)
-```
+<!-- bespoke diagram: edit diagrams/relationship-to-the-rest-of-the-ecosystem.mmd or .hints.json, then: npx pict-renderer-graph build modules/apps/retold-remote-ios/docs -->
+![Relationship to the Rest of the Ecosystem](diagrams/relationship-to-the-rest-of-the-ecosystem.svg)
 
 See the [Architecture](#/page/architecture.md) page for a full diagram.

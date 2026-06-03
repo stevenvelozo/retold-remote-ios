@@ -4,41 +4,8 @@ This page is a module-by-module tour of the source tree. Everything lives under 
 
 ## Project Layout
 
-```
-RetoldRemote/
-├── App/
-│   ├── RetoldRemoteApp.swift        // @main entry point
-│   ├── AppContainer.swift           // Service locator
-│   └── AppCoordinator.swift         // Navigation + session lifecycle
-├── Configuration/
-│   ├── Config.swift                 // Reads xcconfig values
-│   ├── Local.xcconfig.sample
-│   └── Release.xcconfig
-├── Services/
-│   ├── RemoteClient.swift           // REST transport
-│   ├── TidingsClient.swift          // WebSocket transport
-│   ├── AuthService.swift            // Keychain + biometrics
-│   ├── PushService.swift            // APNs registration
-│   └── FileService.swift            // Upload / download
-├── Persistence/
-│   ├── CacheStore.swift             // SQLite wrapper
-│   ├── Outbox.swift                 // Offline write queue
-│   └── Migrations/
-├── Models/
-│   ├── Record.swift
-│   ├── Entity.swift
-│   └── TidingsEnvelope.swift
-├── Features/
-│   ├── Login/
-│   ├── Home/
-│   ├── Records/
-│   ├── Files/
-│   └── Settings/
-└── Resources/
-    ├── Assets.xcassets
-    ├── Info.plist
-    └── Localizable.strings
-```
+<!-- bespoke diagram: edit diagrams/project-layout.mmd or .hints.json, then: npx pict-renderer-graph build modules/apps/retold-remote-ios/docs -->
+![Project Layout](diagrams/project-layout.svg)
 
 ## App
 
