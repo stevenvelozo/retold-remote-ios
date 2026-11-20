@@ -1,6 +1,6 @@
 {
 	"name": "retold-remote-ios",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Native iOS application for retold-remote media browser (Capacitor 8)",
 	"files": [
 		"capacitor.config.ts",
