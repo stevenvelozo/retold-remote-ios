@@ -2,6 +2,19 @@
 	"name": "retold-remote-ios",
 	"version": "1.0.0",
 	"description": "Native iOS application for retold-remote media browser (Capacitor 8)",
+	"files": [
+		"capacitor.config.ts",
+		"ios-plugins",
+		"scripts",
+		"src",
+		"web-app/index.html",
+		"web-app/retold-native-bridge.css",
+		"web-app/retold-native-bridge.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stevenvelozo/retold-remote-ios.git"
+	},
 	"license": "MIT",
 	"author": "Steven Velozo <steven@velozo.com>",
 	"scripts": {
